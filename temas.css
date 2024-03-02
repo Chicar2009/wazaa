@@ -1,0 +1,15 @@
+.logo{
+    background-color: black;
+    height: 1000px;
+    width: 100%;
+}
+p{
+    background-color: aliceblue;
+    text-align: center;
+    font-size: 20px;
+}
+.imagen{
+    background-image: url(wazaa.PNG);
+    height: 900px;
+    width: 700px;
+}
